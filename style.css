@@ -1,0 +1,8 @@
+.bgimg{
+       background-image:url("images/bgimage.jpg");
+       background-size:cover
+}
+.align{
+    display: block;
+    text-align: right;
+}
